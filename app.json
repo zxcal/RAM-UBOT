@@ -1,7 +1,7 @@
 {
-  "name": "RAM-UBOT",
-  "description": "[RAM-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg",
+  "name": "ZX-UBOT",
+  "description": "[ZX-UBOT] ADALAH USERBOT DENGAN BANYAK MODULE KEREN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "logo": "https://telegra.ph/file/322a510bc338195eb8301.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ramadhani892/RAM-UBOT",
-  "telegram": "https://t.me/Ramadhaniiiiiii1",
-  "success_url": "https://t.me/ramaupportt",
+  "repository": "https://github.com/zxcal/ZX-UBOT",
+  "telegram": "https://t.me/ftcalzxd",
+  "success_url": "https://t.me/sokintott1",
   "stack": "container",
   "env": {
     "API_KEY": {
