@@ -4,7 +4,7 @@
 <a href="https://www.gambaranimasi.org/cat-bintang-280.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></a>
     <p align="center"> 
 
-<img src="https://telegra.ph/file/fac49608eb86a69f85745.jpg">
+<img src="https://telegra.ph/file/322a510bc338195eb8301.jpg">
 
 <p align="center">
   <a href="https://github.com/zxcal/ZX-UBOT/fork">
