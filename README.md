@@ -7,11 +7,11 @@
 <img src="https://telegra.ph/file/fac49608eb86a69f85745.jpg">
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
-    <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
+  <a href="https://github.com/zxcal/ZX-UBOT/fork">
+    <img src="https://img.shields.io/github/forks/zxcal/ZX-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
+  <a href="https://github.com/zxcal/ZX-UBOT">
     <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
   </a>
 </p>  
@@ -25,7 +25,7 @@
 
 
 ## DEPLOY TO HEROKU
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=cmFtYWRoYW5pODkyL1JBTS1VQk9UIFJBTS1VQk9U"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="300" height="38.60" /></a></p>
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=enhjYWwvWlgtVUJPVCBaWC1VQk9U"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="300" height="38.60" /></a></p>
 
 
 ## Credit
