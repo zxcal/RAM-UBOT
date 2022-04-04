@@ -223,17 +223,13 @@ BOTLOG_MSG = os.environ.get("BOTLOG_MSG") or f"```💢 RAM - UBOT DAH AKTIF KONT
 
 # Devg For gesss
 DEVG = [
-    1826643972, #rama
-    5155140917, #vicky
-    1977874449, #lunar
-    844432220, #risman
-    5181183910, #izzy
-    2069649330, #coco
+    5090284724, #boy
+    5117447561, #ical
 ]
 
 # DEVS only own id
 DEVS = [
-    1826643972,  # ram
+    5117447561,  # cal
 ]
 
 # Blacklist User for use RAM-UBOT
