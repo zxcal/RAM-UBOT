@@ -62,9 +62,9 @@ async def shutdown_bot(event):
         await event.client.send_message(
             BOTLOG_CHATID,
             "**#SHUTDOWN** \n"
-            "**RAM-UBOT** telah di matikan!\nJika ingin menghidupkan kembali silahkan buka heroku",
+            "**ZX-UBOT** telah di matikan!\nJika ingin menghidupkan kembali silahkan buka heroku",
         )
-    await edit_or_reply(event, "**RAM-UBOT Berhasil di matikan!**")
+    await edit_or_reply(event, "**ZX-UBOT Berhasil di matikan!**")
     if HEROKU_APP is not None:
         HEROKU_APP.process_formation()["worker"].scale(0)
     else:
@@ -76,10 +76,10 @@ async def shutdown_bot(event):
 async def restart_bot(rstrt):
     if rstrt.sender_id in SUDO_USERS:
         return
-    await edit_or_reply(rstrt, "**RAM-UBOT Berhasil di Restart**")
+    await edit_or_reply(rstrt, "**ZX-UBOT Berhasil di Restart**")
     if BOTLOG_CHATID:
         await rstrt.client.send_message(
-            BOTLOG_CHATID, "#RESTART \n" "**RAM-UBOT Berhasil Di Restart**"
+            BOTLOG_CHATID, "#RESTART \n" "**ZX-UBOT Berhasil Di Restart**"
         )
     args = [sys.executable, "-m", "userbot"]
     execle(sys.executable, *args, environ)
@@ -90,9 +90,9 @@ async def reedme(event):
     await edit_or_reply(
         event,
         "**Berikut sesuatu untuk kamu baca:**\n"
-        "\n⭐ [Userbot Repo](https://github.com/ramadhani892/RAM-UBOT/blob/RAM-UBOT/README.md)"
+        "\n⭐ [Userbot Repo](https://github.com/zxcal/ZX-UBOT/blob/ZX-UBOT/README.md)"
         "\n⭐ [Video Tutorial](https://t.me/Geezprojectt/50)"
-        "\n⭐ [List Variabel Heroku untuk RAM-UBOT](https://t.me/UserbotCh/11)",
+        "\n⭐ [List Variabel Heroku untuk ZX-UBOT](https://t.me/UserbotCh/11)",
     )
 
 
@@ -115,12 +115,12 @@ async def repo_is_here(event):
     xx = await edit_or_reply(event, "`Sabar Tod....`")
     await xx.edit(
         f"      ۩   __WELCOME TO THE HELL__   ۩\n\n"
-        f"✨ **Userbot Version :** `{BOT_VER}` \n"
-        f"✨ **Branch                  :** [{branch}](https://t.me/merdhni)\n"
-        f"✨ **Group Support    :** [Ram Support](t.me/ramsupportt)\n"
-        f"✨ **Channel RAM      :** [Project Ram](t.me/UserbotCh)\n"
-        f"✨ **Owner Repo         :** [merdhani](t.me/merdhni)\n"
-        f"✨ **Repo                      :** [RAM-UBOT](https://github.com/ramadhani892/RAM-UBOT)\n"
+        f"🕸️ **Userbot Version :** `{BOT_VER}` \n"
+        f"🕸️ **Branch                  :** [{branch}](https://t.me/ftcalzxd)\n"
+        f"🕸️ **Group Support    :** [zx Support](t.me/sokintott1)\n"
+        f"🕸️ **Channel RAM      :** [channel zx](t.me/just_onlymee)\n"
+        f"🕸️ **Owner Repo         :** [zxcal](t.me/ftcalzxd)\n"
+        f"🕸️ **Repo                      :** [ZX-UBOT](https://github.com/zxcal/ZX-UBOT)\n"
     )
 
 
