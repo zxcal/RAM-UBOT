@@ -70,7 +70,7 @@ async def gben(userbot):
             return await dark.edit(f"`MAAF BANGET MASSZEH 😔✋, LO GABISA GBAN DIA NGENTOT, ITU DEVELOPER GUA!!!`")
         if user.id in DEVG:
             return await dark.edit(
-                f"MAAF BANGET JING 🤪, LO GABISA GBAN ADMIN @RAMSUPPORTT"
+                f"MAAF BANGET JING 🤪, LO GABISA GBAN ADMIN @SOKINTOTT1"
             )
         try:
             from userbot.modules.sql_helper.gmute_sql import gmute
